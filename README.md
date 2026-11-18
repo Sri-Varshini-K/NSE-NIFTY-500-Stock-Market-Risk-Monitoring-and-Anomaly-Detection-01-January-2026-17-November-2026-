@@ -1,0 +1,2 @@
+# NSE-NIFTY-500-Stock-Market-Risk-Monitoring-and-Anomaly-Detection-01-January-2026-17-November-2026-
+This project focuses on analyzing daily stock market data of NIFTY 500 companies listed on the National Stock Exchange (NSE), India, from 1 January 2026 to 17 November 2026.  The objective is to identify unusual stock price movements, abnormal trading volumes, market volatility and potential risk levels.
